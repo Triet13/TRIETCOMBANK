@@ -26,4 +26,4 @@ namespace WebApplication1.ViewModels
         }
     }
 }
-//ok eroi do may nhu cc luc ra nay luc ra kia 
+// xem lại đoạn code trước cái trang đó đi, có code sai hay thiếu j ko chứ nhận thì nó có nhận r nhưng lại ko hiện ở trong SQL
